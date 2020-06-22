@@ -1,6 +1,6 @@
 name: flutter_showtime
 description: A flutter wrapper around the ShowTime Cocoapod.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/bottlepay/flutter_showtime
 
 environment:

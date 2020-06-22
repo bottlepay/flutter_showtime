@@ -2,6 +2,8 @@
 
 A flutter wrapper around the ShowTime Cocoapod. Allows you to easily view touch events in iOS.
 
+https://github.com/KaneCheshire/ShowTime
+
 Requires minimum deployment target of 8.2 or higher.
 
 **Note:** this is a no-op in Android and is only valid for iOS.
@@ -12,7 +14,7 @@ Requires minimum deployment target of 8.2 or higher.
 
 Add this project to your `pubspec.yaml`:
 ```yaml
-  flutter_showtime: ^0.0.1
+  flutter_showtime: ^0.0.2
 ```
 
 Enable / disable touch events:
