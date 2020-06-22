@@ -1,6 +1,6 @@
 name: flutter_showtime
-description: A flutter wrapper around the ShowTime Cocoapod.
-version: 0.0.2
+description: A flutter wrapper around the ShowTime Cocoapod to isually highlight touch events in iOS.
+version: 0.1.0
 homepage: https://github.com/bottlepay/flutter_showtime
 
 environment:

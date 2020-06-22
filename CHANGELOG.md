@@ -1,3 +1,6 @@
+## 0.1.0
+* Added dart doc comments.
+
 ## 0.0.2
 * Updated readme to include link to ShowTime package.
 
