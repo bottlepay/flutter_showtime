@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_showtime (0.0.1):
+    - Flutter
+    - ShowTime
+  - ShowTime (2.5.2)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_showtime (from `.symlinks/plugins/flutter_showtime/ios`)
+
+SPEC REPOS:
+  trunk:
+    - ShowTime
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_showtime:
+    :path: ".symlinks/plugins/flutter_showtime/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_showtime: b2052c7e372cd8c43c9b6f1b5a43b09b99085cd5
+  ShowTime: 5cb2c5314da2983cec44f27123a15473cf29306f
+
+PODFILE CHECKSUM: a3fd0aac5221fb9ade881b3fbb134608822e4c3f
+
+COCOAPODS: 1.9.3
