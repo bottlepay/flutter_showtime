@@ -1,3 +1,6 @@
+## 0.1.1
+* Fixed typo in pubspec description.
+
 ## 0.1.0
 * Added dart doc comments.
 
