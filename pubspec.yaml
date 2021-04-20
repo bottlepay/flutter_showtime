@@ -1,10 +1,10 @@
 name: flutter_showtime
 description: A flutter wrapper around the ShowTime Cocoapod to visually highlight touch events in iOS with hot spots.
-version: 0.1.1
+version: 1.0.0
 homepage: https://github.com/bottlepay/flutter_showtime
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
+  sdk: '>=2.12.0 <3.0.0'
   flutter: ">=1.10.0"
 
 dependencies:
